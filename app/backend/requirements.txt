@@ -1,5 +1,7 @@
-fastapi==0.87.0
+fastapi==0.88.0
 pandas==1.4.2
 pydantic==1.10.2
-starlette==0.21.0
+starlette==0.22.0
 uvicorn==0.20.0
+fastparquet == 0.8.3
+pyarrow == 10.0.0
